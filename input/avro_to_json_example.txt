@@ -1,0 +1,12 @@
+java -jar avro-tools-1.11.0.jar tojson ../AVROs/0/03/01/58.avro > 58.json
+java -jar avro-tools-1.11.0.jar tojson ../AVROs/0/03/06/58.avro > 58.json
+java -jar avro-tools-1.11.0.jar tojson ../AVROs/0/03/11/58.avro > 58.json
+java -jar avro-tools-1.11.0.jar tojson ../AVROs/0/03/16/58.avro > 58.json
+java -jar avro-tools-1.11.0.jar tojson ../AVROs/0/03/21/58.avro > 58.json
+java -jar avro-tools-1.11.0.jar tojson ../AVROs/0/03/26/58.avro > 58.json
+java -jar avro-tools-1.11.0.jar tojson ../AVROs/0/03/31/58.avro > 58.json
+java -jar avro-tools-1.11.0.jar tojson ../AVROs/0/03/36/58.avro > 58.json
+java -jar avro-tools-1.11.0.jar tojson ../AVROs/0/03/41/58.avro > 58.json
+java -jar avro-tools-1.11.0.jar tojson ../AVROs/0/03/46/58.avro > 58.json
+java -jar avro-tools-1.11.0.jar tojson ../AVROs/0/03/51/58.avro > 58.json
+java -jar avro-tools-1.11.0.jar tojson ../AVROs/0/03/56/58.avro > 58.json
